@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Applied-Energetic
 - 👀 I’m interested in VUE/JS/C++/dataStruct
 - 🌱 I’m currently learning VUE
-- 💞️ I’m looking to collaborate on USTB
 - 📫 How to reach me applied_energetic@163.com
 
 <!---
